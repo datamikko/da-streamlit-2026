@@ -25,7 +25,7 @@ st.markdown(
 
 option = st.selectbox(
     "Select airport",
-    ("Total Rovaniemi", "Total Kittilä"),
+    ("Total Rovaniemi", "Total Kittilä", "Total Ivalo"),
 )
 # st.write(option)
 
